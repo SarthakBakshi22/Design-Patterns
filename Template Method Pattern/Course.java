@@ -1,4 +1,4 @@
-package assignment01;
+package template-method-pattern;
 
 import java.util.Arrays;
 import java.util.Set;
